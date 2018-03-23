@@ -1,0 +1,9 @@
+* Understanding React
+This is an attempt at recreating React from scratch.
+- Using Babel for transpiling
+- We convert JSX to a virtual DOM
+- The virtual DOM is then converted to actual elements on the page
+- Finally we implement a diffing algorithm for the virtual DOM to figure out which nodes we need to modify
+
+* Write up
+Check out the article at https://medium.com/@alaqdev/understanding-react-by-creating-our-own-virtual-dom-f7e2503a55fd
